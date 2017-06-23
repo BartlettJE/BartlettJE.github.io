@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The Role of Confidence, not Trust in Science"
-subtitle: "Why we should care more about how confident people are in our results, not how much trust they have in us"
+subtitle: "Why we should care more about how confident people are in our results, not how much trust they have in us."
 date: 2017-06-23
 ---
 
-![alt text](https://github.com/BartlettJE/BartlettJE.github.io/blob/master/img/funhouse-mirror.png?raw=true "Fun house mirror")
+![alt text](https://github.com/BartlettJE/BartlettJE.github.io/blob/master/img/funhouse-mirror.jpg?raw=true "Fun house mirror")
 _The current state of psychological research: fun to look at it, but offers only a warped sense of reality._ 
 
 I recently listened to the latest episode of the Black Goat podcast ([Nullius in verba](http://www.theblackgoatpodcast.com/posts/nullius-in-verba/)) where their main topic was about the role of trust in science. 
