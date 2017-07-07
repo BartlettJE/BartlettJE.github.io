@@ -7,6 +7,11 @@ subtitle: Publications and conference presentations.
 ## Publications 
 Nothing yet! check back soon. 
 
+## Unpublished research
+
+### 2015
+- Bartlett, J. E., Jenks, R. A., Wilson, N.E, Farias, M. The Differences in Smoking Habits, Motives, and Attentional Bias in Nicotine Dependent and Non-Dependent Smokers. My thesis from this project can be found on [ResearchGate](https://www.researchgate.net/publication/296623691_The_Difference_in_Smoking_Motives_Habits_and_Attentional_Bias_in_Nicotine_Dependent_and_Non-Dependent_Smokers). If you interested in the project or want the results for a meta-analysis, the results have been written up in this [post](https://bartlettje.github.io/2017-07-07-dissertation-file-drawer/). 
+
 ## Conference presentations 
 
 ### 2017
