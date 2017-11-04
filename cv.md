@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 
+A detailed CV can be found here {{ site.baseurl }}/pdfs/cv-james-bartlett.pdf.
+
 ## Education 
 ### PhD in Psychology and Behavioural Sciences 
  Coventry University, UK, September 2015 - September 2018
