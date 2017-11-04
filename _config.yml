@@ -90,6 +90,9 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 # url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
+plugins:
+  - jekyll-seo-tag
+
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "Bartlettje"
