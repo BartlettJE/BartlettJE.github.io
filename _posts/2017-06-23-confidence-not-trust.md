@@ -3,7 +3,6 @@ layout: post
 title: "The Role of Confidence, not Trust in Science"
 subtitle: "Why we should care more about how confident people are in our results, not how much trust they have in us."
 date: 2017-06-23
-tags: ["Confidence", "Trust in science", "psychology", "open science"]
 ---
 
 ![alt text](https://github.com/BartlettJE/BartlettJE.github.io/blob/master/img/funhouse-mirror.jpg?raw=true "Fun house mirror")
