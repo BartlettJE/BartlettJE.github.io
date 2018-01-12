@@ -1,3 +1,7 @@
+<!--*
+  author: James Bartlett;
+  title: The Role of Confidence, not Trust in Science;
+  tags: ["Confidence", "Trust in science", "psychology", "open science"];
 ---
 layout: post
 title: "The Role of Confidence, not Trust in Science"
