@@ -9,7 +9,7 @@ Nothing yet! check back soon.
 
 ## In progress
 
-Bhogal, M. S. and Bartlett, J. E. (submitted). The Influence of Facial Attractiveness on Non-financial Altruism. Preprint available at [PsyArXiv](https://psyarxiv.com/gc8en/).
+Bhogal, M. S. and Bartlett, J. E. (under review). The Influence of Facial Attractiveness on Non-financial Altruism. Preprint available at [PsyArXiv](https://psyarxiv.com/gc8en/).
 
 ## Unpublished research
 
