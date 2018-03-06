@@ -28,7 +28,7 @@ navbar-links:
   Resources:
     - R resources: "r-resources"
     - JASP resources: "jasp-resources"
-    - Experiment building resources: "resources"
+    - Experiment building resources: "experiments"
   About: "aboutme"
   CV: "cv"
   Research: "research"
