@@ -8,14 +8,15 @@ JASP is an open-source statistics package designed to make Bayesian statistics a
 
 ## Introduction to JASP 
 
-I recently designed a workshop to introduce students who have only ever used SPSS to the wonder of JASP. You can access both the [guide](https://osf.io/p2hzg/) I wrote and the [data sets](https://osf.io/7x8hj/) I used for the examples on the Open Science Framework. The data sets are credited to Kevin McIntyre who made them available on the [Open Stats Lab](https://sites.trinity.edu/osl) alongside some activity sheets. 
+I am in the process of writing a guide to transition students from using SPSS to JASP. You can access both the [guide](https://osf.io/p2hzg/) and the [data sets](https://osf.io/7x8hj/) I used for the examples on the Open Science Framework. The sourcing of the data sets are credited to Kevin McIntyre who made them available on the [Open Stats Lab](https://sites.trinity.edu/osl). 
 
 The guide covers the following topics: 
-- Entering data in JASP (to be updated with the newest release version which allows data entry)
-- Creating boxplots
+- How to navigate around JASP
+- Getting basic descriptive statistics and plots
 - Assessing parametric assumptions 
-- Conducting paired samples T-Tests 
-- Conducting independent samples T-Tests 
+- Conducting independent and paired samples T-Tests 
 - Calculating the correlation between two variables
+- One-way repeated measures and independent samples ANOVA 
+- Bayesian paired samples T-Test
 
 Feel free to use it yourself or in your teaching. If you have any feedback (positive or negative) feel free to contact me. 
