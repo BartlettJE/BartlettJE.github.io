@@ -5,7 +5,7 @@ subtitle: Publications and conference presentations.
 ---
 
 ## Publications 
-Nothing yet! check back soon. 
+Farias, M., Coleman III, T.J., **Bartlett, J.E.**, Oviedo, L., Soares, P., Santos, T. and Cerdá, M. (accepted) Atheists on the Santiago Way: Examining Motivations to go on Pilgrimage. *Sociology of Religion.* Preprint available at [PsyArXiv](https://psyarxiv.com/a7gxn/).  
 
 ## In progress
 
