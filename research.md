@@ -5,11 +5,13 @@ subtitle: Publications and conference presentations.
 ---
 
 ## Publications 
-Farias, M., Coleman III, T.J., **Bartlett, J.E.**, Oviedo, L., Soares, P., Santos, T. and Cerdá, M. (accepted) Atheists on the Santiago Way: Examining Motivations to go on Pilgrimage. *Sociology of Religion.* Preprint available at [PsyArXiv](https://psyarxiv.com/a7gxn/).  
 
-## In progress
+### 2018 
+Farias, M., Coleman III, T.J., **Bartlett, J.E.**, Oviedo, L., Soares, P., Santos, T. and Cerdá, M. (2018) Atheists on the Santiago Way: Examining Motivations to go on Pilgrimage. *[Sociology of Religion](https://academic.oup.com/socrel/advance-article-abstract/doi/10.1093/socrel/sry019/5036084).* Accepted author version freely available at [PsyArXiv](https://psyarxiv.com/a7gxn/).  
 
-Bhogal, M. S. and Bartlett, J. E. (under review). The Influence of Facial Attractiveness on Non-financial Altruism. Preprint available at [PsyArXiv](https://psyarxiv.com/gc8en/).
+## Pre-prints
+
+Bhogal, M. S., Bartlett, J. E. and Farrelly, D. (under review). The Influence of Mate Choice Motivation on Non-financial Altruism. Preprint available at [PsyArXiv](https://psyarxiv.com/gc8en/).
 
 ## Unpublished research
 
