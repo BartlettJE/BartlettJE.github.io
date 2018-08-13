@@ -11,7 +11,9 @@ Farias, M., Coleman III, T.J., **Bartlett, J.E.**, Oviedo, L., Soares, P., Santo
 
 ## Pre-prints
 
-Bhogal, M. S., Bartlett, J. E. and Farrelly, D. (under review). The Influence of Mate Choice Motivation on Non-financial Altruism. Preprint available at [PsyArXiv](https://psyarxiv.com/gc8en/).
+Bhogal, M. S., **Bartlett, J. E.**, and Farrelly, D. (2018). The Influence of Mate Choice Motivation on Non-financial Altruism. Preprint available at [PsyArXiv](https://psyarxiv.com/gc8en/). 
+
+Margana, L., Bhogal, M.S., **Bartlett, J.E.**, and Farrelly, D. (2018). Exploring Altruism and Heroism: The Effects of Physical attraction in Female Mate Choice. Preprint available at [PsyArXiv](https://psyarxiv.com/kgpvy/).
 
 ## Unpublished research
 
