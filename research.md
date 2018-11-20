@@ -9,11 +9,9 @@ subtitle: Publications and conference presentations.
 ### 2018 
 - Farias, M., Coleman III, T.J., **Bartlett, J.E.**, Oviedo, L., Soares, P., Santos, T. and Cerdá, M. (2018) Atheists on the Santiago Way: Examining Motivations to go on Pilgrimage. *[Sociology of Religion](https://academic.oup.com/socrel/advance-article-abstract/doi/10.1093/socrel/sry019/5036084).* Accepted author version freely available at [PsyArXiv](https://psyarxiv.com/a7gxn/). 
 
-- Margana, L., Bhogal, M.S., **Bartlett, J.E.**, and Farrelly, D. (in press). The Roles of Altruism, Heroism, and Physical Attractiveness in Female Mate Choice. *Personality and Individual Differences.* Accepted author version freely available at [PsyArXiv](https://psyarxiv.com/kgpvy/). Data and materials available on the [OSF](https://osf.io/a76p8/). 
+- Margana, L., Bhogal, M.S., **Bartlett, J.E.**, and Farrelly, D. (2018). The Roles of Altruism, Heroism, and Physical Attractiveness in Female Mate Choice. *[Personality and Individual Differences](https://www.sciencedirect.com/science/article/pii/S0191886918304586?via%3Dihub).* Accepted author version freely available at [PsyArXiv](https://psyarxiv.com/kgpvy/). Data and materials available on the [OSF](https://osf.io/a76p8/). 
 
-## Pre-prints
-
-Bhogal, M. S., **Bartlett, J. E.**, and Farrelly, D. (2018). The Influence of Mate Choice Motivation on Non-financial Altruism. Preprint available at [PsyArXiv](https://psyarxiv.com/gc8en/). 
+- Bhogal, M.S., **Bartlett, J.E.**, and Farrelly, D. (2018). The Influence of Mate Choice Motivation on Non-Financial Altruism. *[Current Psychology](https://link.springer.com/article/10.1007/s12144-018-0070-x)*. Accepted author version freely available at [PsyArXiv](https://psyarxiv.com/gc8en/). Data and materials available on the [OSF](https://osf.io/cfzyb/). 
 
 ## Unpublished research
 
