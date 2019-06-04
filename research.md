@@ -8,6 +8,8 @@ subtitle: Publications and conference presentations.
 
 - Charles, S. J., **Bartlett, J. E.**, Messick, K. J., Coleman, T. J., III, & Uzdavines, A. (2018, December 22). Researcher Degrees of Freedom in the Psychology of Religion. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/tx5gd) 
 
+- Coleman, T. J., III, **Bartlett, J. E.**, Holcombe, J., Swanson, S. B., Atkinson, A. R., Silver, C., & Hood, R. (2019, June 4). Absorption, Mentalizing, and Mysticism: Sensing the Presence of the Divine. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/k5fp8)
+
 ## Publications 
 
 ### 2019 
