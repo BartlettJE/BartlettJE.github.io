@@ -2,7 +2,7 @@
 layout: post
 title: "An Ode to Preprints"
 subtitle: "The added value provided by open science practices and helpful reviewers"
-date: 2019-24-09
+date: 2019-09-24
 ---
 
 I recently had a paper accepted which I co-authored as part of a group of just PhD students. Our article “researcher degrees of freedom in the psychology of religion” (available via [PsyArXiv](https://psyarxiv.com/tx5gd/)) will be in an open science special issue of the *International Journal for the Psychology of Religion*. When we saw the call for papers, we wanted to contribute, but we did not just want to rehash the same “here’s a description of open science” article adapted for every sub-field of psychology. After originally considering a simulation paper for how researcher degrees of freedom can increase error rates, we focused on whether open science had actually permeated the psychology of religion sub-field. We specifically focused on researcher degrees of freedom that we could detect in published research. We conducted a systematic review of all the articles published in three journals across 2017 and audited whether they had included any open science practices. We found pretty much no evidence that open science practices had made their way into psychology of religion research, so we felt justified in outlining how they could incorporate these practices in future to mitigate researcher degrees of freedom. It was the best publishing experience I’ve had up to yet, so I wanted to highlight a few positives we experienced which I felt added value to the final article given there is still scepticism over the benefit of preprints and open science. 
