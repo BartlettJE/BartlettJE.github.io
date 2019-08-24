@@ -2,7 +2,6 @@
 layout: post
 title: "An Ode to Preprints"
 subtitle: "The added value provided by open science practices and helpful reviewers"
-
 date: 2019-24-09
 ---
 
