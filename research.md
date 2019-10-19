@@ -8,13 +8,13 @@ subtitle: Publications and conference presentations.
 
 - Bhogal, M.S. & **Bartlett, J. E.** (2019, August 22). Further support for the role of heroism in human mate choice. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/2npfm) 
 
-- Charles, S. J., **Bartlett, J. E.**, Messick, K. J., Coleman, T. J., III, & Uzdavines, A. (2018, December 22). Researcher Degrees of Freedom in the Psychology of Religion. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/tx5gd) 
-
 - Coleman, T. J., III, **Bartlett, J. E.**, Holcombe, J., Swanson, S. B., Atkinson, A. R., Silver, C., & Hood, R. (2019, June 4). Absorption, Mentalizing, and Mysticism: Sensing the Presence of the Divine. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/k5fp8)
 
 ## Publications 
 
 ### 2019 
+
+- Charles, S. J., **Bartlett, J. E.**, Messick, K. J., Coleman, T. J., III, & Uzdavines, A. (2019). Researcher Degrees of Freedom in the Psychology of Religion. *[The International Journal for the Psychology of Religion](https://www.tandfonline.com/doi/abs/10.1080/10508619.2019.1660573?journalCode=hjpr20).* Accepted author version, data, and code freely available via [PsyArXiv](https://doi.org/10.31234/osf.io/tx5gd).
 
 - **Bartlett, J.E.** and Eaves, J. (2019) 'Getting to Grips with Open Science'. In *A Guide for Psychology Postgraduates: Surviving Postgraduate Study*. ed by Walton, H., Aquino, R., Talbot, C.V, and Melia, C. British Psychological Society, 85-91. The guide is available on the [PsyPAG website](http://www.psypag.co.uk/psypag-guide/).  
 
