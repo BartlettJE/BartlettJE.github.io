@@ -33,6 +33,10 @@ subtitle: Publications and conference presentations.
 
 ## Conference presentations 
 
+### 2019
+
+- **Bartlett, J.E.** Emptying the File Drawer: Attentional Bias in Daily and Non-Daily Smokers. Society for the Study of Addiction (SSA) PhD Symposium, Newcastle. Presentation available on the [OSF](https://osf.io/43wrn/). 
+
 ### 2018
 
 - **Bartlett, J.E.** An Introduction and Practical Guide to Open Science Practices in Psychology. Workshop delivered at PsyPAG 2018, University of Hudderfield, UK. Presentation and materials available on the [OSF](https://osf.io/w82ms/). 
