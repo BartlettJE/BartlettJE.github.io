@@ -8,15 +8,15 @@ subtitle: Publications and conference presentations.
 
 - Bhogal, M.S. & **Bartlett, J. E.** (2019, August 22). Further support for the role of heroism in human mate choice. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/2npfm) 
 
-- Coleman, T. J., III, **Bartlett, J. E.**, Holcombe, J., Swanson, S. B., Atkinson, A. R., Silver, C., & Hood, R. (2019, June 4). Absorption, Mentalizing, and Mysticism: Sensing the Presence of the Divine. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/k5fp8)
-
 ## Publications 
 
 ### 2019 
 
+- **Bartlett, J.E.** and Eaves, J. (2019) 'Getting to Grips with Open Science'. In *A Guide for Psychology Postgraduates: Surviving Postgraduate Study*. ed by Walton, H., Aquino, R., Talbot, C.V, and Melia, C. British Psychological Society, 85-91. The guide is available on the [PsyPAG website](http://www.psypag.co.uk/psypag-guide/).  
+
 - Charles, S. J., **Bartlett, J. E.**, Messick, K. J., Coleman, T. J., III, & Uzdavines, A. (2019). Researcher Degrees of Freedom in the Psychology of Religion. *[The International Journal for the Psychology of Religion](https://www.tandfonline.com/doi/abs/10.1080/10508619.2019.1660573?journalCode=hjpr20).* Accepted author version, data, and code freely available via [PsyArXiv](https://doi.org/10.31234/osf.io/tx5gd).
 
-- **Bartlett, J.E.** and Eaves, J. (2019) 'Getting to Grips with Open Science'. In *A Guide for Psychology Postgraduates: Surviving Postgraduate Study*. ed by Walton, H., Aquino, R., Talbot, C.V, and Melia, C. British Psychological Society, 85-91. The guide is available on the [PsyPAG website](http://www.psypag.co.uk/psypag-guide/).  
+- Coleman, T. J., III, **Bartlett, J. E.**, Holcombe, J., Swanson, S. B., Atkinson, A. R., Silver, C., & Hood, R. (2019, June 4). Absorption, Mentalizing, and Mysticism: Sensing the Presence of the Divine. *[Journal for the Cognitive Science of Religion](https://journals.equinoxpub.com/JCSR/article/view/37551?fbclid=IwAR3iO0_dnZ-yV17R_0l3DHRoZBRoVOw3oIBcJtH0C71Ux17RvFahVee6Qoo)*. Accepted author version, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/k5fp8)
 
 - Margana, L., Bhogal, M.S., **Bartlett, J.E.**, and Farrelly, D. (2019). The Roles of Altruism, Heroism, and Physical Attractiveness in Female Mate Choice. *[Personality and Individual Differences](https://www.sciencedirect.com/science/article/pii/S0191886918304586?via%3Dihub).* Accepted author version freely available at [PsyArXiv](https://psyarxiv.com/kgpvy/). Data and materials available on the [OSF](https://osf.io/a76p8/). 
 
