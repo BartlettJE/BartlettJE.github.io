@@ -6,9 +6,13 @@ subtitle: Publications and conference presentations.
 
 ## Pre-prints
 
-- Bhogal, M.S. & **Bartlett, J. E.** (2019, August 22). Further support for the role of heroism in human mate choice. Pre-print, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/2npfm) 
+- **Bartlett, J. E.**, Jenks, R., & Wilson, N. (2020, August 22). No Difference in Trait-Level Attentional Bias Between Daily and Non-Daily Smokers. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/cn64d/m). 
 
 ## Publications 
+
+### 2020 
+
+- Bhogal, M.S. & **Bartlett, J. E.** (in press). Further support for the role of heroism in human mate choice. Accepted author version, data, and code available on [PsyArXiv](https://doi.org/10.31234/osf.io/2npfm) 
 
 ### 2019 
 
