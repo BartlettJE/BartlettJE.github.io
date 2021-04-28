@@ -35,6 +35,18 @@ subtitle: Publications and conference presentations.
 ### 2015
 - Bartlett, J. E., Jenks, R. A., Wilson, N.E, Farias, M. The Differences in Smoking Habits, Motives, and Attentional Bias in Nicotine Dependent and Non-Dependent Smokers. My thesis from this project can be found on [ResearchGate](https://www.researchgate.net/publication/296623691_The_Difference_in_Smoking_Motives_Habits_and_Attentional_Bias_in_Nicotine_Dependent_and_Non-Dependent_Smokers). If you interested in the project or want the results for a meta-analysis, the results have been written up in this [post](https://bartlettje.github.io/2017-07-07-Attentional-bias-in-smokers-file-drawer/). 
 
+## Invited workshops and seminars
+
+### 2021
+
+- **Bartlett, J.E.** Learning the hard way: Reproducible workflows. Riot Science Club, University of Wolverhampton. Slides available on the [OSF](https://osf.io/zk4dj/) and recording available on [YouTube](https://youtu.be/P5F_aVz3J70).
+
+- **Bartlett, J.E.** Power to the People: Introduction to Power Analysis. University of Wolverhampton.
+
+### 2020
+
+- **Bartlett, J.E.** Power to the People: Introduction to Power Analysis. Presented to psychologists associated with the Russian Academy of Education. Slides available on the [OSF](https://osf.io/68mcq/) and recording available on [YouTube](https://youtu.be/uj9Ces3jbmc).
+
 ## Conference presentations 
 
 ### 2019
